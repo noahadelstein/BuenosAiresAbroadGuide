@@ -1,14 +1,10 @@
-![An Open Guide]
-
 The Open Guide to Studying Abroad in Buenos Aires
 =====================================
 
 Table of Contents
 -----------------
 
-**Purpose**
-
--	[Why an Open Guide?]
+-	[Why an Open Guide?](#why-an-open-guide)
 -	[Bars]
 -	[Clubs]
 - [Restaraunts]
